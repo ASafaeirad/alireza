@@ -9,7 +9,11 @@
   "description": "",
   "dependencies": {
     "chalk": "2.4.2",
-    "inquirer": "7.3.3"
+    "cliui": "7.0.4",
+    "console-clear": "1.1.1",
+    "figlet": "1.5.0",
+    "inquirer": "7.3.3",
+    "rx": "4.1.0"
   },
   "devDependencies": {
     "@fullstacksjs/eslint-config": "4.2.1",
