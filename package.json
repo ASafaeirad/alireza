@@ -8,16 +8,17 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "chalk": "2.4.2",
-    "cliui": "7.0.4",
     "console-clear": "1.1.1",
-    "figlet": "1.5.0",
-    "inquirer": "7.3.3",
-    "rx": "4.1.0"
+    "ink": "3.0.8",
+    "react": "17.0.1"
   },
   "devDependencies": {
     "@fullstacksjs/eslint-config": "4.2.1",
+    "@types/react": "17.0.0",
     "eslint": "7.17.0",
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "ts-node": "9.1.1",
+    "ts-node-dev": "1.1.1",
+    "typescript": "4.1.3"
   }
 }
