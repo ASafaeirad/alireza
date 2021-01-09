@@ -5,5 +5,5 @@ import React from 'react';
 
 import App from './App';
 
-clear();
+clear(true);
 render(<App />);
