@@ -1,4 +1,5 @@
-#!/bin/env node
+#!/usr/bin/env node
+
 import clear from 'console-clear';
 import { render } from 'ink';
 import React from 'react';
