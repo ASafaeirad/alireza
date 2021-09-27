@@ -1,7 +1,7 @@
 export const data = {
   name: 'Alireza',
   about:
-    'I have +13 years of programming experience, and +5 years of professional experience working with medium to large databases, managed technical project as technical lead.',
+    'Innovative Front End Engineer with +5 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS echosystem. Passionate about learning, teaching, and, mentoring and code review.',
   greetings: `Hi 👋, My name is`,
   github: 'https://github.com/frontendmonster',
   linkedin: 'https://www.linkedin.com/in/alireza-safaeirad',
