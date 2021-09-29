@@ -8,8 +8,8 @@ export const About = () => (
   <Box flexDirection="column" marginBottom={2}>
     <Box alignItems="center" flexDirection="column" width="100%" marginBottom={1}>
       <Text bold>About Me</Text>
-      <Text dimColor>{data.about}</Text>
+      <Text italic>{data.about}</Text>
     </Box>
-    <Link label="CV" value={data.resume} />
+    <Link label="CV" value={<Text>{data.resume}</Text>} />
   </Box>
 );

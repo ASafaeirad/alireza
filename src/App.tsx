@@ -8,11 +8,11 @@ import { Titles } from './sections/Titles';
 
 const App = () => (
   <Box
-    width={79}
+    width={76}
     paddingY={1}
     paddingX={3}
     justifyContent="center"
-    borderColor="white"
+    borderColor="yellowBright"
     borderStyle="round"
     flexDirection="column"
   >
