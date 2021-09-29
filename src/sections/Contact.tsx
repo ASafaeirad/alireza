@@ -13,7 +13,9 @@ export const Contact = () => (
       label="Email"
       value={
         <Box>
-          <Text bold color="cyan">{data.email}</Text>
+          <Text bold color="cyan">
+            {data.email}
+          </Text>
           <Text dimColor>@gmail.com</Text>
         </Box>
       }
@@ -23,7 +25,9 @@ export const Contact = () => (
       value={
         <Box>
           <Text dimColor>https://gituhub.com/</Text>
-          <Text bold color="cyan">{data.github}</Text>
+          <Text bold color="cyan">
+            {data.github}
+          </Text>
         </Box>
       }
     />
@@ -32,7 +36,9 @@ export const Contact = () => (
       value={
         <Box>
           <Text dimColor>https://www.linkedin.com/in/</Text>
-          <Text bold color="cyan">{data.linkedin}</Text>
+          <Text bold color="cyan">
+            {data.linkedin}
+          </Text>
         </Box>
       }
     />

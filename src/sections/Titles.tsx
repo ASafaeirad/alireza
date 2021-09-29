@@ -1,7 +1,7 @@
 import { Box, Text } from 'ink';
 import React from 'react';
-import { data } from '../data';
 
+import { data } from '../data';
 
 export const Titles = () => (
   <Box marginRight={1} borderStyle="round" paddingX={1} marginBottom={2} justifyContent="center">
