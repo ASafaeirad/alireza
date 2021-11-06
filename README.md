@@ -1,5 +1,11 @@
-# alireza
+# Alireza
 
-The cli version of my CV.
+> The CLI version of my CV.
 
-check it out `npx alireza`
+![Screenshot](https://raw.githubusercontent.com/frontendmonster/alireza/master/assets/Alireza.png)
+
+Check it out 
+
+```bash
+$ npx alireza@latest
+```
