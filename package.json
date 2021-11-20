@@ -21,7 +21,9 @@
     "lint": "eslint ./src --ext .ts,.tsx --fix",
     "prebuild": "npm run clean",
     "build": "tsc",
-    "start": "ts-node-dev --transpile-only src/index.tsx"
+    "start": "ts-node-dev --transpile-only src/index.tsx",
+    "prerelease": "npm run build",
+    "release": "np"
   },
   "dependencies": {
     "console-clear": "1.1.1",
