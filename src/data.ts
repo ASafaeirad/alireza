@@ -9,6 +9,6 @@ export const data = {
   github: 'frontendmonster',
   linkedin: 'alireza-safaeirad',
   email: 'alireza.safaierad',
-  resume: 'https://github.com/frontendmonster/resume',
+  cv: 'https://github.com/frontendmonster/cv',
   titles: ['Software Engineer', 'Web Developer', 'Frontend Engineer'],
 };

@@ -10,6 +10,6 @@ export const About = () => (
       <Text bold>About Me</Text>
       <Text italic>{data.about}</Text>
     </Box>
-    <Link label="CV" value={<Text>{data.resume}</Text>} />
+    <Link label="CV" value={<Text>{data.cv}</Text>} />
   </Box>
 );
