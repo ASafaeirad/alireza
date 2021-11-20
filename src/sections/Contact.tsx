@@ -24,7 +24,7 @@ export const Contact = () => (
       label="Github"
       value={
         <Box>
-          <Text dimColor>https://gituhub.com/</Text>
+          <Text dimColor>https://github.com/</Text>
           <Text bold color="cyan">
             {data.github}
           </Text>
