@@ -6,9 +6,9 @@ export const data = {
     'Proficient in Web technologies and modern JS/TS ecosystem.' +
     'I am passionate about learning, teaching, and mentoring.',
   greetings: `Hi 👋, My name is`,
-  github: 'frontendmonster',
-  linkedin: 'alireza-safaeirad',
+  github: 'ASafaeirad',
+  linkedin: 'ASafaeirad',
   email: 'alireza.safaierad',
-  cv: 'https://github.com/frontendmonster/cv',
+  cv: 'https://github.com/ASafaeirad/cv',
   titles: ['Software Engineer', 'Web Developer', 'Frontend Engineer'],
 };
