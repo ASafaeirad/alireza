@@ -9,5 +9,5 @@ export const data = {
   linkedin: 'ASafaeirad',
   email: 'alireza.safaierad',
   cv: 'https://github.com/ASafaeirad/cv',
-  titles: ['Software Engineer', 'Web Developer', 'Frontend Engineer'],
+  titles: ['Software Engineer', 'Web Developer'],
 };
