@@ -1,10 +1,10 @@
 import { Box } from 'ink';
 import React from 'react';
 
-import { About } from './sections/About';
-import { Contact } from './sections/Contact';
-import { Greetings } from './sections/Greetings';
-import { Titles } from './sections/Titles';
+import { About } from './sections/About.js';
+import { Contact } from './sections/Contact.js';
+import { Greetings } from './sections/Greetings.js';
+import { Titles } from './sections/Titles.js';
 
 const App = () => (
   <Box

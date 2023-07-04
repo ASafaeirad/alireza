@@ -1,31 +1,7 @@
 {
+  "extends": "@sindresorhus/tsconfig",
   "compilerOptions": {
-    "module": "CommonJS",
-    "outDir": "lib",
-    "target": "ES2020",
-    "moduleResolution": "Node",
-    "emitDecoratorMetadata": true,
-    "esModuleInterop": true,
-    "experimentalDecorators": true,
-    "forceConsistentCasingInFileNames": true,
-    "importsNotUsedAsValues": "preserve",
-    "lib": [
-      "ES2020"
-    ],
-    "jsx": "react",
-    "noEmitOnError": true,
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": true,
-    "noUnusedLocals": true,
-    "removeComments": true,
-    "resolveJsonModule": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "strictNullChecks": false,
-    "strictPropertyInitialization": false
+    "outDir": "lib"
   },
-  "include": [
-    "./src/**/*.ts",
-    "./src/**/*.tsx"
-  ]
+  "include": ["./src"]
 }

@@ -1,8 +1,8 @@
 import { Box, Text } from 'ink';
 import React from 'react';
 
-import Link from '../components/Link';
-import { data } from '../data';
+import Link from '../components/Link.js';
+import { data } from '../data.js';
 
 export const Contact = () => (
   <Box flexDirection="column">
